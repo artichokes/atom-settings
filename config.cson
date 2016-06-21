@@ -1,0 +1,35 @@
+"*":
+  "atom-material-ui":
+    colors: {}
+    tabs: {}
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontFamily: "Fira Code"
+    fontSize: 15
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "f9da28e5-7523-f24a-7805-32ce49891cd8"
+  "file-icons":
+    onChanges: true
+  "jade-beautify":
+    OMIT_DIV: true
+  "linter-eslint":
+    lintHtmlFiles: true
+  nim:
+    nimsuggestEnabled: true
+    nimsuggestExecutablePath: "c:\\Users\\Peter\\Projects\\nimsuggest\\nimsuggest.exe"
+    runCommand: "start <bin>"
+  "seti-ui":
+    compactView: true
+    themeColor: "Steel"
+  welcome:
+    showOnStartup: false

@@ -14,7 +14,6 @@
     ]
   editor:
     fontFamily: "Fira Code"
-    fontSize: 15
     showIndentGuide: true
   "exception-reporting":
     userId: "f9da28e5-7523-f24a-7805-32ce49891cd8"
@@ -23,6 +22,7 @@
   "jade-beautify":
     OMIT_DIV: true
   "linter-eslint":
+    disableFSCache: true
     lintHtmlFiles: true
   nim:
     nimsuggestEnabled: true

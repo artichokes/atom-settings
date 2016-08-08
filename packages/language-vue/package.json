@@ -1,6 +1,6 @@
 {
   "name": "language-vue",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "description": "Vue component support in Atom",
   "repository": {
     "type": "git",
@@ -17,10 +17,10 @@
     "url": "https://github.com/hedefalk/atom-vue/issues"
   },
   "homepage": "https://github.com/hedefalk/atom-vue#readme",
-  "_id": "language-vue@0.14.1",
-  "_shasum": "8bb2c1bc96c251c5c044af562473c5bf5ab9a84e",
-  "_resolved": "file:..\\d-116617-9604-1vav4wr\\package.tgz",
-  "_from": "..\\d-116617-9604-1vav4wr\\package.tgz",
+  "_id": "language-vue@0.15.0",
+  "_shasum": "2a79f112be4a83ff305ac81a61ec6ff94c0082bb",
+  "_resolved": "file:..\\d-11678-3812-p9qy11\\package.tgz",
+  "_from": "..\\d-11678-3812-p9qy11\\package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],
